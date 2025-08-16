@@ -1,6 +1,6 @@
 # SQL Data Warehouse Project
 
-This project implements a SQL Data Warehouse using the Medellin architecture (Bronze, Silver, Gold layers).
+This project implements a SQL Data Warehouse using the Medallin architecture (Bronze, Silver, Gold layers).
 
 - **Data Sources:** CRM & ERP (6 CSV files total)  
 - **Bronze & Silver:** Tables  
